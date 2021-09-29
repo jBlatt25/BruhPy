@@ -18,7 +18,8 @@ async def on_message(message):
             await message.channel.send("fucking retard")
 
     if str(message.channel) == "general" and message.content != "":
+        await message.channel.send("fucking retard")
         await message.channel.purge(limit=1)
 
 
-client.run('ODkwODEzNTIwNDc0Njc3Mjk5.YU1QvQ.rwfFKba9MgUF0x4hSAa_TMR-pXY')
+client.run('ODkwODEzNTIwNDc0Njc3Mjk5.YU1QvQ.FI8Ka22dcgQkQVQIVrOGO9AF-U4')
