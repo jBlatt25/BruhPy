@@ -22,4 +22,4 @@ async def on_message(message):
         await message.channel.purge(limit=1)
 
 
-client.run('ODkwODEzNTIwNDc0Njc3Mjk5.YU1QvQ.FI8Ka22dcgQkQVQIVrOGO9AF-U4')
+client.run('ODkwODEzNTIwNDc0Njc3Mjk5.YU1QvQ.EtPEKPSUoPzeEJuJSAJh2KkjcPo')
